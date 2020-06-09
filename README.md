@@ -1,2 +1,3 @@
 # hugo-blog
-The Hugo blog
+
+Jacob's personal blog now in Hugo
